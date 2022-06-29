@@ -2,6 +2,9 @@ jwt:
     time: 900000546321
     secret: hello-world423145
 
-posco:
-    name: 3기운영
-    count: 20444422
+spring:
+    datasource:
+        url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&amp
+        characterEncoding: UTF-8
+        username: root
+        password: 1234
