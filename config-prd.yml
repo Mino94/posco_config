@@ -1,0 +1,9 @@
+jwt:
+    time: 900000546321
+    secret: hello-world423145
+test:
+    datasource:
+        url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&amp
+        characterEncoding: UTF-8
+        username: gonggu
+        password: 1234
