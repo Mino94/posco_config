@@ -3,5 +3,5 @@ jwt:
     secret: hello-world
 
 posco:
-    name: 3기
+    name: "${cipher}00efb998eb7504442ed972337660717035c39e4aab914d798d420fcfea52047d"
     count: 20
