@@ -1,7 +1,9 @@
 jwt:
     time: 900000546321
     secret: hello-world423145
-test:
+posco:
+    name: 3기prd
+    count: 20
     datasource:
         url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&amp
         characterEncoding: UTF-8
