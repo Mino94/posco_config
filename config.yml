@@ -2,7 +2,7 @@ spring:
     datasource:
         url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&amp
         characterEncoding: UTF-8
-        username: gonggu
+        username: root
         password: 1234
 jwt:
     secret_key: SECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEY
