@@ -4,7 +4,9 @@ management:
     endpoints:
         web:
             exposure:
-                include: "*"
+                include: refresh
     endpoint:
         shutdown:
             enabled: true
+    security:
+        enabled: false
