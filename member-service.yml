@@ -1,4 +1,4 @@
-my-config.name: defualt update zzzz
+my-config.name: defualt update
 
 spring:
     rabbitmq:
@@ -11,7 +11,7 @@ management:
     endpoints:
         web:
             exposure:
-                include: "*"
+                include: refresh
     endpoint:
         shutdown:
             enabled: true
