@@ -1,4 +1,4 @@
-my-config.name: defualt
+my-config.name: defualt update zzzz
 
 spring:
     rabbitmq:
