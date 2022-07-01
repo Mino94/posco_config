@@ -1,4 +1,4 @@
-my-config.name: defualt update 키키키
+my-config.name: defualt
 
 spring:
     rabbitmq:
